@@ -1,0 +1,4 @@
+homepage footer is too big
+contact page ui - overlapping issues
+want the admission popup to be in reacthangle size - poster format
+achievements , news and events looks like repeating
